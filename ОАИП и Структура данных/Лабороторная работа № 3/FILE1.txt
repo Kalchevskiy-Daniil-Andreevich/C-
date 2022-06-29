@@ -1,0 +1,6 @@
+My name is Danik
+I'm 17
+I live in Minsk
+I like C++
+I am using visual studio 2019
+An ordinary boy

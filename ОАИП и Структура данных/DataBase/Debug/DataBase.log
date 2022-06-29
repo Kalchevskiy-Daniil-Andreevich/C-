@@ -1,0 +1,9 @@
+﻿  DataBase.cpp
+D:\ОАИП и Структура данных\DataBase\DataBase.cpp(533,6): warning C4101: k: неиспользованная локальная переменная
+D:\ОАИП и Структура данных\DataBase\DataBase.cpp(720,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\ОАИП и Структура данных\DataBase\DataBase.cpp(802,12): warning C4129: m: неизвестная escape-последовательность
+D:\ОАИП и Структура данных\DataBase\DataBase.cpp(827,12): warning C4129: m: неизвестная escape-последовательность
+D:\ОАИП и Структура данных\DataBase\DataBase.cpp(853,12): warning C4129: m: неизвестная escape-последовательность
+D:\ОАИП и Структура данных\DataBase\DataBase.cpp(1029,17): warning C4154: удаление массива; выполнено преобразование к указателю
+D:\ОАИП и Структура данных\DataBase\DataBase.cpp(1033,6): warning C4101: k: неиспользованная локальная переменная
+  DataBase.vcxproj -> D:\ОАИП и Структура данных\DataBase\Debug\DataBase.exe

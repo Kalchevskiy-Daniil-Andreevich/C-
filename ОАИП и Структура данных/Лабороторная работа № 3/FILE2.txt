@@ -1,0 +1,4 @@
+My name is Danik
+I live in Minsk
+I like C++
+An ordinary boy
